@@ -1,4 +1,9 @@
 hello git first line
 qwerty uiop
 hjhjkjljlk
+<<<<<<< HEAD
 qresdfgc
+=======
+opppppp
+powerr
+>>>>>>> 540c56f79f829abb475c432e13a4a085a9543a16
